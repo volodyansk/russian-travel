@@ -7,7 +7,7 @@
 }
 
 .footer__link:hover {
-    opacity: .5;
+    opacity: .8;
 }
 
 .footer__links :last-of-type .footer__link {

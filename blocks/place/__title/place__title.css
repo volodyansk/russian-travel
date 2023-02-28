@@ -2,6 +2,8 @@
     grid-area: place__title;
     text-align: start;
     margin: 0;
+    max-width: 460px;
+    min-width: 288px;
     font-weight: 900;
     font-size: 72px;
     line-height: 76px;
